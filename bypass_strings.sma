@@ -33,6 +33,3 @@ insert_update_data()
 	/* Imagine you have SQL_ThreadQuery */
 	log_amx(sz_Query);
 }
-/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE
-*{\\ rtf1\\ ansi\\ ansicpg1252\\ deff0\\ deflang1033{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ f0\\ fs16 \n\\ par }
-*/
