@@ -1,1 +1,2 @@
-# AMX-Tricks
+### AMX-Tricks
+
